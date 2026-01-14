@@ -42,7 +42,7 @@ SafeHer solves this by introducing a **device-based emergency system** where SOS
 ### Deployment
 - Render (Single service for frontend + backend)
 
----
+---## 📸 Screenshots
+<img width="1920" height="1080" alt="Screenshot (1071)" src="https://github.com/user-attachments/assets/f53772e8-0d73-43c0-934e-1eae010e34bc" />
 
-## 🏗️ System Architecture
 
